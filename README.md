@@ -9,6 +9,12 @@ I took a Model-View-Controller approach to this app and I learned a lot about th
 ![calc-example](https://user-images.githubusercontent.com/56977500/166123719-d62d6611-d49b-403e-b30a-7de820f176cb.png)
 
 
+## Features
+-  Used pure JavaScript to create the app
+-  Added PWA functionality
+-  Used Figma to create icons and design
+-  Deployed with Github Pages
+
 ## Installation
 
 To install the the live project please visit racorbin23.github.io/iOS-Calculator/ and click the PWA install icon and click install.
